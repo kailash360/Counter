@@ -1,0 +1,53 @@
+#wholeBody {
+    background-color: rgb(0, 146, 190);
+}
+
+#heading {
+    height: 100%;
+    margin-top: 2%;
+    text-align: center;
+    color: aqua;
+    font-size: 90px;
+    font-family: "Akaya Kanadaka";
+    text-shadow: -1px 1px 6px #000;
+}
+
+#count {
+    color: white;
+    margin-top: 7%;
+    text-align: center;
+    font-size: 120px;
+    font-family: "Galdeano";
+    text-shadow: 3px 2px 6px #000;
+}
+
+#buttonSection {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.button {
+    padding: 3px 5px 3px 5px;
+    margin: 2px 4px 2px 4px;
+    border-radius: 10px;
+    font-size: 40px;
+    font-family: "Stylish";
+}
+
+#increase {
+    background-color: rgb(9, 0, 131);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#decrease {
+    background-color: rgb(2, 85, 50);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#reset {
+    background-color: rgb(158, 4, 24);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+}
